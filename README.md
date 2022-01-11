@@ -1,4 +1,4 @@
-### Hello My name is Saad ALmutairi 👋🏻
+### Hello My name is Saad Almutairi 👋🏻
 
 
 
@@ -6,8 +6,10 @@
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about Swift , Python 
-- 📫 How to reach me: <a href="https://twitter.com/saad_alshtily" ><img heigh=35px width=35px src="https://cdn-icons.flaticon.com/png/512/2168/premium/2168336.png?token=exp=1641901437~hmac=f5670897e3a4800d3457d0b54a14dfd6" ></a>
+- 💬 Ask me about **[Swift, JS, Python]**
+- 📫 How to reach me: </br>
+      - **Twitter** <a href="https://twitter.com/Saad_Alshtily" target="_blank">**@Saad_Alshtily**</a>  
+- 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
