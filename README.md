@@ -1,9 +1,9 @@
 ### Hello My name is Saad Almutairi 👋🏻
 
-## - 🌱 I’m currently learning <strong> Flutter 💻 </strong>
-## - 💬 Ask me about <strong> Swift, JS, Python 👀 </strong>
-## - 📫 How to reach me: </br>
-   ## - **Twitter** <a href="https://twitter.com/Saad_Alshtily" target="_blank">**@Saad_Alshtily**</a>  
+# - 🌱 I’m currently learning <strong> Flutter 💻 </strong>
+# - 💬 Ask me about <strong> Swift, JS, Python 👀 </strong>
+# - 📫 How to reach me: </br>
+   # - **Twitter** <a href="https://twitter.com/Saad_Alshtily" target="_blank">**@Saad_Alshtily**</a>  
 
 
 
