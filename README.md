@@ -7,7 +7,7 @@
 
 
 
-## Languages and Tools I use :
+## Languages and Tools :
 
 <code><img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="Swift" width="22" height="22"/></code>
 <code><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="22" height="22"/></code>
